@@ -1,0 +1,1 @@
+<?php namespace PHPMailer\PHPMailer; class PHPMailer { public function __construct($e=false){} public function isSMTP(){} public function __set($n,$v){} public function setFrom($a,$b=''){} public function addAddress($a){} public function send(){return true;} } ?>
